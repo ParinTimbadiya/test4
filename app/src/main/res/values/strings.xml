@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test4</string>
+    <string name="register_here"><u>Register here</u></string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="let_s_get_started">Let\'s get started</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in">Sign in</string>
+    <string name="todo">TODO</string>
+</resources>
