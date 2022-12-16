@@ -7,6 +7,15 @@ import android.widget.ImageView
 
 class MainActivity : AppCompatActivity() {
 //    private lateinit var img_logo :ImageView
+//    private lateinit var img_logo :ImageView
+//    private lateinit var img_logo :ImageView
+//    private lateinit var img_logo :ImageView
+//    private lateinit var img_logo :ImageView
+//    private lateinit var img_logo :ImageView
+//    private lateinit var img_logo :ImageView
+//    private lateinit var img_logo :ImageView
+//    private lateinit var img_logo :ImageView
+//    private lateinit var img_logo :ImageView
 
     override fun onCreate(savedInstanceState: Bundle?) {
 
